@@ -1,4 +1,4 @@
-# Finance Project
+# Stock-Price-EDA
 
 ## Overview
 Analyzing finance(Stock Prices) data to practice my EDA skils.
